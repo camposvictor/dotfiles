@@ -10,7 +10,7 @@ general.import = [
 padding.x = 12
 padding.y = 12
 
-decorations = "None"
+decorations = "Full"
 
 [font]
 
